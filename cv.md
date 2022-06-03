@@ -5,7 +5,7 @@
 
 **E-mail:** m7036600@gmail.com
 
-**Telegram:** @m7036600
+**Telegram:** [@m7036600](https://t.me/m7036600)
 
 **Discord:** Mihail Dementev (960bg)
 
@@ -19,6 +19,7 @@
 + Delphi
 + Git 
 + VS Code
+  
 ---
 ## Code Example
  *The challenge is to write a function that takes a string and returns a new string with all the vowels removed.*

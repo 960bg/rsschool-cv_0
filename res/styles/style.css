@@ -93,14 +93,14 @@
 } */
 
 /* контейнер содержимого на странице */
-/* .container {
+.container {
   display: flex;
   flex-direction: column;
   max-width: 1200px;
   margin: 0 auto;
   padding: 0 15px;
-  border: 1px solid red;
-} */
+  /* border: 1px solid red; */
+}
 
 /* флекс контейнер для фото и о себе */
 /* .header .flex-container-row {

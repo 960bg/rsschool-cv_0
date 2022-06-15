@@ -59,7 +59,7 @@
 .nav,
 .flex-container-row,
 .footer-links {
-  margin: 15px;
+  margin: 15px 0 15px 0;
   border-radius: 10px;
   border: 1px solid #dee2e6 !important;
   box-shadow: 0 0.125rem 0.25rem #00000013 !important;
@@ -94,8 +94,8 @@
 
 /* контейнер содержимого на странице */
 .container {
-  display: flex;
-  flex-direction: column;
+  /* display: flex;
+  flex-direction: column; */
   max-width: 1200px;
   margin: 0 auto;
   padding: 0 15px;
@@ -185,9 +185,31 @@ justify-content: flex-end;*/
   border: 1px solid rgb(47, 0, 255);
 } */
 
-.img-foto {
+.header-foto {
+  min-width: 35%;
+  text-align: center;
 
+
+  /* width: 300px;
+  height: 500px; */
+  /* background: red;
+  overflow: hidden; */
+  /* text-justify: auto; */
+
+}
+
+.img-foto {
+  width: 100%;
+  height: 100%;
+  /* height: 200px; */
+  max-width: 200px;
+  max-height: 200px;
+  min-width: 200px;
+  min-height: 200px;
+  object-fit: cover;
   border-radius: 50%;
+  /* padding: 15px; */
+  margin: 15px;
 }
 
 /* адаптация масштаба сайта под размер экрана */

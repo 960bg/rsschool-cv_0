@@ -11,6 +11,166 @@
   font-weight: 100;
 }
 
+/* год создания в footer */
+.p-footer-date {
+  font-size: 32px;
+  font-weight: 700;
+}
+
+/* иконки для контактов */
+.ul-contacts,
+.ul-skills,
+.ul-courses,
+.ul-education,
+.ul-experience,
+.ul-language,
+.ul-projects {
+  /* сброс стандартных маркеров */
+  list-style: none;
+}
+
+/* иконка для discord */
+.li-contacts-discord {
+  padding: 10px 0 10px 45px;
+  background: url("../img/pictures/logo-discord_1.svg") left 5px / 35px no-repeat;
+}
+
+/* наведение */
+.li-contacts-discord:hover {
+  background: url("../img/pictures/logo-discord_2.svg") left 5px / 35px no-repeat;
+}
+
+/* иконка для location */
+.li-contacts-location {
+  padding: 10px 0 10px 45px;
+  background: url("../img/pictures/location_1.svg") left 5px / 35px no-repeat;
+}
+
+/* наведение */
+.li-contacts-location:hover {
+  background: url("../img/pictures/location_2.svg") left 5px / 35px no-repeat;
+}
+
+/* иконка для telegram */
+.li-contacts-telegram {
+  padding: 10px 0 10px 45px;
+  background: url("../img/pictures/telegram_1.svg") left 5px / 35px no-repeat;
+}
+
+/* наведение */
+.li-contacts-telegram:hover {
+  background: url("../img/pictures/telegram_2.svg") left 5px / 35px no-repeat;
+}
+
+/* иконка для mail */
+.li-contacts-mail {
+  padding: 10px 0 10px 45px;
+  background: url("../img/pictures/mail_1.svg") left 5px / 35px no-repeat;
+}
+
+/* наведение */
+.li-contacts-mail:hover {
+  background: url("../img/pictures/mail_2.svg") left 5px / 35px no-repeat;
+}
+
+/* иконки для скилов */
+/* иконка для js */
+.li-skills-js {
+  padding: 10px 0 10px 45px;
+  background: url("../img/pictures/js_1.svg") left 5px / 35px no-repeat;
+}
+
+/* наведение */
+.li-skills-js:hover {
+  background: url("../img/pictures/js_2.svg") left 5px / 35px no-repeat;
+}
+
+/* иконка для html */
+.li-skills-html,
+.li-courses-html {
+  padding: 10px 0 10px 45px;
+  background: url("../img/pictures/html_1.svg") left 5px / 35px no-repeat;
+}
+
+/* наведение */
+.li-skills-html:hover,
+.li-courses-html:hover {
+  background: url("../img/pictures/html_2.svg") left 5px / 35px no-repeat;
+}
+
+/* иконка для css */
+.li-skills-css,
+.li-courses-css {
+  padding: 10px 0 10px 45px;
+  background: url("../img/pictures/css_1.svg") left 5px / 35px no-repeat;
+}
+
+/* наведение */
+.li-skills-css:hover,
+.li-courses-css:hover {
+  background: url("../img/pictures/css_2.svg") left 5px / 35px no-repeat;
+}
+
+/* иконка для css */
+.li-skills-vscode {
+  padding: 10px 0 10px 45px;
+  background: url("../img/pictures/vscode_1.svg") left 5px / 35px no-repeat;
+}
+
+/* наведение */
+.li-skills-vscode:hover {
+  background: url("../img/pictures/vscode_2.svg") left 5px / 35px no-repeat;
+}
+
+/* иконка для git */
+.li-skills-git,
+.li-courses-git {
+  padding: 10px 0 10px 45px;
+  background: url("../img/pictures/git_1.svg") left 5px / 35px no-repeat;
+}
+
+/* наведение */
+.li-skills-git:hover,
+.li-courses-git:hover {
+  background: url("../img/pictures/git_2.svg") left 5px / 35px no-repeat;
+}
+
+/* иконка для Markdown */
+.li-courses-md,
+.li-projects {
+  padding: 10px 0 10px 45px;
+  background: url("../img/pictures/md_1.svg") left 5px / 35px no-repeat;
+}
+
+/* наведение */
+.li-courses-md:hover,
+.li-projects:hover {
+  background: url("../img/pictures/md_2.svg") left 5px / 35px no-repeat;
+}
+
+/* иконка для универа */
+.li-education-univer {
+  padding: 10px 0 10px 45px;
+  background: url("../img/pictures/univer_1.svg") left 5px / 35px no-repeat;
+}
+
+/* наведение */
+.li-education-univer:hover {
+  background: url("../img/pictures/univer_2.svg") left 5px / 35px no-repeat;
+}
+
+/* иконка для опыта */
+.li-experience,
+.li-language {
+  padding: 10px 0 10px 45px;
+  background: url("../img/pictures/book.svg") left 5px / 35px no-repeat;
+}
+
+
+/* иконки============================================================================= */
+
+
+
 /* переопределение тега address */
 .address {
   font-style: normal;

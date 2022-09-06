@@ -84,7 +84,7 @@
 
  ---
 
-|   ![git][git-img]([git])    | ![rss][rss-img]([rss])      |   [cv-html]    |
+|   [![git][git-img]]([git])    | [![rss][rss-img]]([rss])      |   [cv-html]    |
 |:-----:|:-----:|:-----:|
 
 

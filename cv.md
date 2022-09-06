@@ -1,17 +1,18 @@
-# Mihail Dementev
+|: # Mihail Dementev |         ![main foto](//cv-md/foto.png "фото"):|
 ---
 ### Contacts for communication:
 **Phone:** +7 927 703 66 00
 
 **E-mail:** m7036600@gmail.com
 
-**Telegram:** [@m7036600](https://t.me/m7036600)
+**Telegram:** [@m7036600]
 
 **Discord:** Mihail Dementev (960bg)
 
 ---
 ## About Me
-#### I am 35 years old. I am a reliable person, honest, responsive, hardy, hardworking. I am determined to go through The Rolling Scopes School and become a professional developer with diligence. I already had experience in software development while working at 1C, but for some reason I left the company and decided to do business. The constant desire to create something new led me to the decision to learn front-end development and develop professionally in this interesting direction.
+ Hello, my name is Mikhail Dementiev, and I'm studying front-end developer at Rolling Scopes School. I intend to successfully complete my training and become a professional developer. Now training is not as easy as expected, but I'm working on it. The profession of a front-end developer turned out to be incredibly exciting for me, here I discovered a whole world of new interesting technologies that I want to quickly comprehend and succeed in this.
+
 ---
 ## Skills
 + JavaScript (basic)
@@ -23,7 +24,7 @@
 ---
 ## Code Example
  *The challenge is to write a function that takes a string and returns a new string with all the vowels removed.*
-```
+```javascript
  function disemvowel(str) {
       const ALPHABET = 'AaEeIiOoUu';
       let newMas = str;
@@ -48,22 +49,33 @@
 ## Education
 #### Samara State Technical University
   * Faculty of Automation and Information Technology
+
 #### Books:
   - Morgan N. - JavaScript for kids
   - Weisfeld M. "Object-Oriented Thinking"
-
-
   ---
+
 ## Experience
  
  - 1C programmer
  - Purchasing director
  - Business owner
-
-
  ---
+
 ## Languages
   
  - English - A1
  - Russian - Native
 
+
+
+[//]:
+
+   [@m7036600]: <https://t.me/m7036600>
+   [git]: <https://github.com/960bg>
+   [rss]: <https://rs.school/js/>
+   [john gruber]: <http://daringfireball.net>
+   [df1]: <http://daringfireball.net/projects/markdown/>
+   [markdown-it]: <https://github.com/markdown-it/markdown-it>
+   [Ace Editor]: <http://ace.ajax.org>
+   [node.js]: <http://nodejs.org>

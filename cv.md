@@ -1,7 +1,9 @@
+
 ![main foto](cv-md/foto.png "фото")
 # Mihail Dementev     
 
 ### Content:
++ [cv-html]
 + [Contacts for communication](#contacts-for-communication)
 + [About Me](#about-me)
 + [Skills](#skills)
@@ -84,8 +86,4 @@
    [@m7036600]: <https://t.me/m7036600>
    [git]: <https://github.com/960bg>
    [rss]: <https://rs.school/js/>
-   [john gruber]: <http://daringfireball.net>
-   [df1]: <http://daringfireball.net/projects/markdown/>
-   [markdown-it]: <https://github.com/markdown-it/markdown-it>
-   [Ace Editor]: <http://ace.ajax.org>
-   [node.js]: <http://nodejs.org>
+   [cv-html]: <>

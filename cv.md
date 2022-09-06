@@ -1,9 +1,7 @@
-
-![main foto](cv-md/foto.png "фото")
+                                        ![main foto](/cv-md/foto.png "фото")
 # Mihail Dementev     
 
 ### Content:
-+ [cv-html]
 + [Contacts for communication](#contacts-for-communication)
 + [About Me](#about-me)
 + [Skills](#skills)
@@ -25,13 +23,13 @@
 
 ---
 ## About Me
- Hello, my name is Mikhail Dementiev, and I'm studying front-end developer at Rolling Scopes School. I intend to successfully complete my training and become a professional developer. Now training is not as easy as expected, but I'm working on it. The profession of a front-end developer turned out to be incredibly exciting for me, here I discovered a whole world of new interesting technologies that I want to quickly comprehend and succeed in this.
+ Hello, my name is Mihail Dementev, and I'm studying front-end developer at Rolling Scopes School. I intend to successfully complete my training and become a professional developer. Now training is not as easy as expected, but I'm working on it. The profession of a front-end developer turned out to be incredibly exciting for me, here I discovered a whole world of new interesting technologies that I want to quickly comprehend and succeed in this.
 
 ---
 ## Skills
-+ JavaScript (basic)
-+ 1С
-+ Delphi
++ JavaScript 
++ Html
++ Css 
 + Git 
 + VS Code
   
@@ -61,6 +59,8 @@
 ```
 ---
 ## Education
+#### Rolling Scopes School
+  * Faculty of Automation and Information Technology
 #### Samara State Technical University
   * Faculty of Automation and Information Technology
 
@@ -81,11 +81,13 @@
  - English - A1
  - Russian - Native
 
-
-
+|   ![git][git-img]    | ![rss][rss-img]      |   [cv-html]    |
+|:-----:|:-----:|:-----:|
 [//]:#
 
    [@m7036600]: <https://t.me/m7036600>
    [git]: <https://github.com/960bg>
+   [git-img]: </cv-md/github.png>
    [rss]: <https://rs.school/js/>
+   [rss-img]: </cv-md/rs_school_js.png>
    [cv-html]: <https://960bg.github.io/rsschool-cv/>

@@ -61,6 +61,8 @@
 ## Education
 #### Rolling Scopes School
   * JS/FE Pre-School 2022Q2
+
+
 #### Samara State Technical University
   * Faculty of Automation and Information Technology
 
@@ -84,8 +86,8 @@
 
  ---
 
-| [![git][git-img]][git]| [![rss][rss-img]][rss] | [cv-html] |
-|:---------------------:|:----------------------:|:---------:|
+ [![git][git-img]][git]             [![rss][rss-img]][rss]             [[cv-html][cv-img]][cv-html] 
+
 
 
 ---
@@ -99,3 +101,4 @@
    [rss]: <https://rs.school/js/>
    [rss-img]: <./cv-md/rs_school_js.png>
    [cv-html]: <https://960bg.github.io/rsschool-cv/>
+   [cv-img]: <./cv-md/cv.png>

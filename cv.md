@@ -1,4 +1,14 @@
-|: # Mihail Dementev |         ![main foto](//cv-md/foto.png "фото"):|
+![main foto](cv-md/foto.png "фото")
+# Mihail Dementev     
+
+### Content:
++ [Contacts for communication](#contacts-for-communication)
++ [About Me](#about-me)
++ [Skills](#skills)
++ [Code Example](#code-example)
++ [Education](#education)
++ [Experience](#experience)
++ [Languages](#languages)
 ---
 ### Contacts for communication:
 **Phone:** +7 927 703 66 00
@@ -69,7 +79,7 @@
 
 
 
-[//]:
+[//]:#
 
    [@m7036600]: <https://t.me/m7036600>
    [git]: <https://github.com/960bg>

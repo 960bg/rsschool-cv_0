@@ -1,4 +1,4 @@
-![foto][main foto](#mihail-dementev)
+[![foto][main foto]](#mihail-dementev)
 # Mihail Dementev     
 
 ### Content:
@@ -84,7 +84,7 @@
 
  ---
 
-|   ![git][git-img][git]    | ![rss][rss-img][rss]      |   [cv-html]    |
+|   ![git][git-img]([git])    | ![rss][rss-img]([rss])      |   [cv-html]    |
 |:-----:|:-----:|:-----:|
 
 

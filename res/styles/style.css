@@ -1,0 +1,482 @@
+/* определения шрифтов */
+@font-face {
+  font-family: 'Roboto';
+  src: url("../fonts/Roboto-Light.ttf");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url("../fonts/Roboto-Thin.ttf");
+  font-weight: 100;
+}
+
+/* год создания в footer */
+.p-footer-date {
+  font-size: 32px;
+  font-weight: 700;
+}
+
+/* иконки для контактов */
+.ul-contacts,
+.ul-skills,
+.ul-courses,
+.ul-education,
+.ul-experience,
+.ul-language,
+.ul-projects {
+  /* сброс стандартных маркеров */
+  list-style: none;
+}
+
+/* иконка для discord */
+.li-contacts-discord {
+  padding: 10px 0 10px 45px;
+  background: url("../img/pictures/logo-discord_1.svg") left 5px / 35px no-repeat;
+}
+
+/* наведение */
+.li-contacts-discord:hover {
+  background: url("../img/pictures/logo-discord_2.svg") left 5px / 35px no-repeat;
+}
+
+/* иконка для location */
+.li-contacts-location {
+  padding: 10px 0 10px 45px;
+  background: url("../img/pictures/location_1.svg") left 5px / 35px no-repeat;
+}
+
+/* наведение */
+.li-contacts-location:hover {
+  background: url("../img/pictures/location_2.svg") left 5px / 35px no-repeat;
+}
+
+/* иконка для telegram */
+.li-contacts-telegram {
+  padding: 10px 0 10px 45px;
+  background: url("../img/pictures/telegram_1.svg") left 5px / 35px no-repeat;
+}
+
+/* наведение */
+.li-contacts-telegram:hover {
+  background: url("../img/pictures/telegram_2.svg") left 5px / 35px no-repeat;
+}
+
+/* иконка для mail */
+.li-contacts-mail {
+  padding: 10px 0 10px 45px;
+  background: url("../img/pictures/mail_1.svg") left 5px / 35px no-repeat;
+}
+
+/* наведение */
+.li-contacts-mail:hover {
+  background: url("../img/pictures/mail_2.svg") left 5px / 35px no-repeat;
+}
+
+/* иконки для скилов */
+/* иконка для js */
+.li-skills-js {
+  padding: 10px 0 10px 45px;
+  background: url("../img/pictures/js_1.svg") left 5px / 35px no-repeat;
+}
+
+/* наведение */
+.li-skills-js:hover {
+  background: url("../img/pictures/js_2.svg") left 5px / 35px no-repeat;
+}
+
+/* иконка для html */
+.li-skills-html,
+.li-courses-html {
+  padding: 10px 0 10px 45px;
+  background: url("../img/pictures/html_1.svg") left 5px / 35px no-repeat;
+}
+
+/* наведение */
+.li-skills-html:hover,
+.li-courses-html:hover {
+  background: url("../img/pictures/html_2.svg") left 5px / 35px no-repeat;
+}
+
+/* иконка для css */
+.li-skills-css,
+.li-courses-css {
+  padding: 10px 0 10px 45px;
+  background: url("../img/pictures/css_1.svg") left 5px / 35px no-repeat;
+}
+
+/* наведение */
+.li-skills-css:hover,
+.li-courses-css:hover {
+  background: url("../img/pictures/css_2.svg") left 5px / 35px no-repeat;
+}
+
+/* иконка для css */
+.li-skills-vscode {
+  padding: 10px 0 10px 45px;
+  background: url("../img/pictures/vscode_1.svg") left 5px / 35px no-repeat;
+}
+
+/* наведение */
+.li-skills-vscode:hover {
+  background: url("../img/pictures/vscode_2.svg") left 5px / 35px no-repeat;
+}
+
+/* иконка для git */
+.li-skills-git,
+.li-courses-git {
+  padding: 10px 0 10px 45px;
+  background: url("../img/pictures/git_1.svg") left 5px / 35px no-repeat;
+}
+
+/* наведение */
+.li-skills-git:hover,
+.li-courses-git:hover {
+  background: url("../img/pictures/git_2.svg") left 5px / 35px no-repeat;
+}
+
+/* иконка для Markdown */
+.li-courses-md,
+.li-projects {
+  padding: 10px 0 10px 45px;
+  background: url("../img/pictures/md_1.svg") left 5px / 35px no-repeat;
+}
+
+/* наведение */
+.li-courses-md:hover,
+.li-projects:hover {
+  background: url("../img/pictures/md_2.svg") left 5px / 35px no-repeat;
+}
+
+/* иконка для универа */
+.li-education-univer {
+  padding: 10px 0 10px 45px;
+  background: url("../img/pictures/univer_1.svg") left 5px / 35px no-repeat;
+}
+
+/* наведение */
+.li-education-univer:hover {
+  background: url("../img/pictures/univer_2.svg") left 5px / 35px no-repeat;
+}
+
+/* иконка для опыта */
+.li-experience,
+.li-language {
+  padding: 10px 0 10px 45px;
+  background: url("../img/pictures/book.svg") left 5px / 35px no-repeat;
+}
+
+
+/* иконки============================================================================= */
+
+
+
+/* переопределение тега address */
+.address {
+  font-style: normal;
+}
+
+/* О Себе настройка отступа  */
+.p {
+  padding: 15px;
+}
+
+/* выравнить текст кода */
+.code-js {
+  white-space: pre-wrap;
+  padding-left: 15px;
+}
+
+/* ширина 50% для блоков категорий в 2 колонки */
+.contacts,
+.skills,
+.education,
+.courses {
+  width: 50%;
+}
+
+/* ширина 30% для блоков категорий в 3 колонки */
+.experience,
+.language,
+.projects {
+  width: 33.33%;
+}
+
+/* отступ слева для категорий */
+.header-about-me,
+.contacts,
+.skills,
+.education,
+.courses,
+.experience,
+.language,
+.code,
+.projects {
+  padding-left: 15px;
+}
+
+/* установка блокам округленных рамок и теней */
+.nav,
+.flex-container-row,
+.footer-links {
+  margin: 15px 0 15px 0;
+  border-radius: 10px;
+  border: 1px solid #dee2e6 !important;
+  box-shadow: 0 0.125rem 0.25rem #00000013 !important;
+}
+
+/* настройка навигации */
+.nav {
+  text-align: center;
+}
+
+/* обнуление стандартного отступа в начале списка */
+.nav-list {
+  padding-inline-start: 0;
+}
+
+/* меню списка навигации в строку */
+.nav-item {
+  display: inline;
+  margin: 0 15px;
+}
+
+/* оболочка wrapper позволяет не уйти иза границы */
+.wrapper {
+  min-height: 100%;
+  overflow: hidden;
+}
+
+/* ГЛОБАЛЬНЫЕ ПЕРЕМЕННЫЕ */
+/* :root {
+  --var-max-width: 1100px;
+} */
+
+/* контейнер содержимого на странице */
+.container {
+  /* display: flex;
+  flex-direction: column; */
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+  /* border: 1px solid red; */
+}
+
+/* флекс контейнер для фото и о себе */
+/* .header .flex-container-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+} */
+
+/* флекс контейнер для остальной информации*/
+/* подвал ссылки на курс, год, иконка rss */
+.flex-container-row,
+.nav,
+.footer-links {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+/* подвал ссылки на курс, год, иконка rss */
+/* .footer-links { */
+/* max-width: 500px; */
+/* display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+} */
+
+/* картинка svg для гита */
+.footer-gitHub {
+  width: 45px;
+  height: 45px;
+  /* margin: 0 50px; */
+}
+
+/* картинка svg для школы */
+.footer-rss {
+  width: 121px;
+  height: 45px;
+  /* margin: 0 50px; */
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-image: url(../img/pictures/rs_school_js.svg);
+}
+
+
+
+/* выделение жирным названий позиций в списках */
+.span {
+  font-weight: bold;
+}
+
+/* о себе слева / фото справа */
+/* .header-about-me { */
+/* display: flex;
+  justify-content: flex-start;*/
+/* width: 50%; */
+/* 
+  border: 1px solid rgb(47, 0, 255);
+} */
+
+/* заголовок h1  */
+.h1 {
+  /* 32px */
+  font-size: 32px;
+  text-align: center;
+}
+
+/* заголовок h2  */
+.h2 {
+  /* 25px */
+  font-size: 25px;
+}
+
+/* фото     */
+/* .header-foto { */
+/* display: flex;
+justify-content: flex-end;*/
+/* width: 50%; */
+/* 
+  border: 1px solid rgb(47, 0, 255);
+} */
+
+.header-foto {
+  min-width: 35%;
+  text-align: center;
+
+
+  /* width: 300px;
+  height: 500px; */
+  /* background: red;
+  overflow: hidden; */
+  /* text-justify: auto; */
+
+}
+
+.img-foto {
+  width: 100%;
+  height: 100%;
+  /* height: 200px; */
+  max-width: 200px;
+  max-height: 200px;
+  min-width: 200px;
+  min-height: 200px;
+  object-fit: cover;
+  /* border-radius: 50% 5% 50% 50%; */
+  border-radius: 30% 10% 30% 10%;
+  /* padding: 15px; */
+  margin: 15px;
+}
+
+/* адаптация масштаба сайта под размер экрана */
+@media (max-width: 1200px) {
+  .container {
+    max-width: 970px;
+  }
+}
+
+/* 
+@media (max-width: 992px) {
+  .container {
+    max-width: 750px;
+  }
+} */
+
+/* расположить элементы при маленьком экране друг за другом */
+@media (max-width: 768px) {
+  .container {
+    max-width: none;
+  }
+
+  /* ширина 100% для блоков категорий */
+  .contacts,
+  .skills,
+  .education,
+  .courses,
+  .experience,
+  .language {
+    width: 100%;
+  }
+
+  .flex-container-row {
+    display: block;
+    width: 100%;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+  /* поменять местами расположение элементов
+  первым расположить фото вторым - о себе */
+  .header .flex-container-row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap-reverse;
+    justify-content: center;
+    align-items: center;
+  }
+
+  /* меняем шрифт на адаптивный */
+  /* заголовок h1  */
+  .h1 {
+    /* 32px */
+    font-size: calc(32px + 16 * ((100vw - 320px) / (1200 - 320)));
+
+  }
+
+  /* заголовок h2  */
+  .h2 {
+    /* 25px */
+    font-size: calc(25px + 16 * ((100vw - 320px) / (1200 - 320)));
+  }
+
+  .body {
+    /* Блочная модель */
+
+    /* Типографика */
+    font-family: "Roboto", sans-serif;
+    font-size: calc(20px + 4 * ((100vw - 320px) / (1200 - 320)));
+    /* 20px; */
+  }
+}
+
+/* плавная прокрутка */
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.body {
+  /* Блочная модель */
+
+  /* Типографика */
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  /* 20px; */
+}
+
+.nav {
+  /* overflow: hidden; */
+  /* width: 100%; */
+  /* 
+  top: 10px;
+  flex-wrap: nowrap; */
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  /* margin: 0 auto; */
+}
+
+/* .nav-list {
+  display: block;
+  justify-content: center;
+  align-items: center;
+} */

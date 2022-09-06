@@ -1,4 +1,4 @@
-                                        ![main foto](/cv-md/foto.png "фото")
+![main foto][main foto]("фото")
 # Mihail Dementev     
 
 ### Content:
@@ -23,7 +23,7 @@
 
 ---
 ## About Me
- Hello, my name is Mihail Dementev, and I'm studying front-end developer at Rolling Scopes School. I intend to successfully complete my training and become a professional developer. Now training is not as easy as expected, but I'm working on it. The profession of a front-end developer turned out to be incredibly exciting for me, here I discovered a whole world of new interesting technologies that I want to quickly comprehend and succeed in this.
+ >Hello, my name is Mihail Dementev, and I'm studying front-end developer at Rolling Scopes School. I intend to successfully complete my training and become a professional developer. Now training is not as easy as expected, but I'm working on it. The profession of a front-end developer turned out to be incredibly exciting for me, here I discovered a whole world of new interesting technologies that I want to quickly comprehend and succeed in this.
 
 ---
 ## Skills
@@ -81,10 +81,18 @@
  - English - A1
  - Russian - Native
 
+
+ ---
+
 |   ![git][git-img]    | ![rss][rss-img]      |   [cv-html]    |
 |:-----:|:-----:|:-----:|
-[//]:#
 
+
+---
+
+
+
+   [main foto]: </cv-md/foto.png>
    [@m7036600]: <https://t.me/m7036600>
    [git]: <https://github.com/960bg>
    [git-img]: </cv-md/github.png>

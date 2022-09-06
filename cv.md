@@ -69,6 +69,8 @@
 #### Books:
   - Morgan N. - JavaScript for kids
   - Weisfeld M. "Object-Oriented Thinking"
+
+
   ---
 
 ## Experience
@@ -76,6 +78,8 @@
  - 1C programmer
  - Purchasing director
  - Business owner
+
+ 
  ---
 
 ## Languages
@@ -86,7 +90,7 @@
 
  ---
 
- [![git][git-img]][git]             [![rss][rss-img]][rss]             [[cv-html][cv-img]][cv-html] 
+ [![git][git-img]][git]             [![rss][rss-img]][rss]             [![cv-html][cv-img]][cv-html] 
 
 
 

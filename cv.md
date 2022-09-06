@@ -1,4 +1,4 @@
-[main foto][main foto]("фото")
+![main foto][main foto]("фото")
 # Mihail Dementev     
 
 ### Content:
@@ -84,7 +84,7 @@
 
  ---
 
-|   [git][git-img]    | [rss][rss-img]      |   [cv-html]    |
+|   ![git][git-img]    | ![rss][rss-img]      |   [cv-html]    |
 |:-----:|:-----:|:-----:|
 
 
@@ -92,10 +92,10 @@
 
 
 
-   [main foto]: </cv-md/foto.png>
+   [main foto]: <./cv-md/foto.png>
    [@m7036600]: <https://t.me/m7036600>
    [git]: <https://github.com/960bg>
-   [git-img]: </cv-md/github.png>
+   [git-img]: <./cv-md/github.png>
    [rss]: <https://rs.school/js/>
-   [rss-img]: </cv-md/rs_school_js.png>
+   [rss-img]: <./cv-md/rs_school_js.png>
    [cv-html]: <https://960bg.github.io/rsschool-cv/>
